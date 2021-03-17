@@ -1,3 +1,9 @@
+/*
+Copyright (c) 2021 Chatyusha
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
+*/
+
 #include <iostream>
 using namespace std;
 
