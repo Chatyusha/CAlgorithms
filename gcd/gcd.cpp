@@ -29,9 +29,3 @@ int gcm (int a, int b)
     }
     
 }
-
-int lcm (int a, int b)
-{
-    return (a / gcm(a,b))*b;
-}
-
